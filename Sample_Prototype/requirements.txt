@@ -5,4 +5,5 @@ crewai_tools
 pydantic
 python-dotenv
 streamlit
-openai  # Use the standard OpenAI SDK for DeepSeek compatibility
+
+openai  # standard OpenAI SDK for DeepSeek compatibility
